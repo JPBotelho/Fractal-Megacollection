@@ -114,3 +114,6 @@ Coloring Methods:
 ![Hue](Renders/Hue.png "Hue")
 
 ![Edge Detection](Renders/EdgeDetection.png "Edge Detection")
+
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
